@@ -1,4 +1,4 @@
-# Emotion Detection 
+# Emotions Detection 
 
 ## Overview
 This project is a Django-based web application for emotion detection using image processing and machine learning techniques. The system uses a webcam to capture real-time facial expressions and analyzes them to detect emotions. Based on the detected emotion, it plays a corresponding song.
@@ -46,5 +46,5 @@ python manage.py runserver
 2. Allow camera access for real-time facial expression detection.
 3. The system will analyze your facial expression and play a song accordingly.
 
-Happy coding....!
+
 
