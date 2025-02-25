@@ -41,8 +41,6 @@ Start the Django development server:
 ```bash
 python manage.py runserver
 ```
-Then, open your browser and go to http://127.0.0.1:8000/. The application will access your webcam, detect your facial expression, and play a song based on the detected emotion.
-
 ## Testing Emotion Detection
 1. Open the web application in your browser.
 2. Allow camera access for real-time facial expression detection.
